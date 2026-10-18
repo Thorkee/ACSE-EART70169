@@ -32,7 +32,7 @@ The Applied Computational Science and Engineering MSc is a one-year, full-time p
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ada-jl4025/ACSE-EART70169.git
+   git clone https://github.com/Thorkee/ACSE-EART70169.git
    cd ACSE-EART70169
    ```
 
